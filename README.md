@@ -36,3 +36,11 @@
 ### Use-case
 
 ![Use-case](docs/diagrams/use-case.png)
+
+### Блок-схема: добавление статьи
+
+![Добавление статьи](docs/diagrams/dobavlenie-statyi.drawio.png)
+
+### Блок-схема: проверка статьи
+
+![Проверка статьи](docs/diagrams/proverka-statyi.drawio.png)
