@@ -44,3 +44,7 @@
 ### Блок-схема: проверка статьи
 
 ![Проверка статьи](docs/diagrams/proverka-statyi.drawio.png)
+
+### ER-диаграмма
+
+![ER-диаграмма](docs/diagrams/ERD.png)
